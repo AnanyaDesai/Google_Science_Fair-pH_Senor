@@ -1,0 +1,2 @@
+# pH-testing
+This code is used for the testing of the pH of any liquid. This program was written to test the pH of saliva as a part of the Google Science Fair project. The pH sensor senses the pH value, and if it is lower than 5.5, sends an alert on the mobile phone of the user to pay attention to oral hygiene. This can prove to be useful for the parents in order to maintain the oral hygiene of children.
