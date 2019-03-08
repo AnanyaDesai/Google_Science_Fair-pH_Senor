@@ -40,7 +40,7 @@ double avergearray(int* arr, int number){
   double avg;
   long amount=0;
   if(number<=0){
-    Serial.println("Error number for the array to avraging!/n");
+    Serial.println("Error number for the array to averaging!/n");
     return 0;
   }
   if(number<5){   
